@@ -1,0 +1,12 @@
+[
+    { "id" : 0 , "timeplayed" : 54896, "kda":25, "wins":102 },
+    { "id" : 1 , "timeplayed" : 4587 , "kda":12, "wins":522},
+    { "id" : 2 , "timeplayed" : 98658, "kda":15, "wins":97 },
+    { "id" : 3 , "timeplayed" : 2546 , "kda":0.5, "wins":78 },
+    { "id" : 4 , "timeplayed" : 1254 , "kda":14, "wins":45},
+    { "id" : 5 , "timeplayed" : 45874, "kda":2, "wins":47 },
+    { "id" : 6 , "timeplayed" : 45874, "kda":1.4, "wins":5 },
+    { "id" : 7 , "timeplayed" : 45874, "kda":5.6, "wins":554 },
+    { "id" : 8 , "timeplayed" : 45874, "kda":8.1, "wins":40 },
+    { "id" : 9 , "timeplayed" : 45874, "kda":0.2, "wins":80 }
+]
