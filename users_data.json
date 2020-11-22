@@ -4,5 +4,9 @@
     { "id" : 2 , "name": "Paco", "email": "paco@gmail.com" },
     { "id" : 3 , "name": "Pepe", "email": "pepe@gmail.com" },
     { "id" : 4 , "name": "Andres", "email": "andres@gmail.com" },
-    { "id" : 5 , "name": "Nacho", "email": "nacho@gmail.com" }
+    { "id" : 5 , "name": "Nacho", "email": "nacho@gmail.com" },
+    { "id" : 6 , "name": "Ana", "email": "an@gmail.com" },
+    { "id" : 7 , "name": "Lucia", "email": "lucia@gmail.com" },
+    { "id" : 8 , "name": "Julia", "email": "julia@gmail.com" },
+    { "id" : 9 , "name": "Nuria", "email": "nuria@gmail.com" }
 ]
