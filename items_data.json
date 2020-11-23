@@ -1,12 +1,12 @@
 [
-    { "id" : 0 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 1 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 2 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 3 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 4 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 5 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 6 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 7 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 8 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 },
-    { "id" : 9 , "name": "El horrocruxes", "description": "Es una cosa muy mala" , "attack": 15, "defense": 20 }
+    { "id" : 0 , "name": "Axe", "description": "A powerful heavy weapon" , "attack": 25, "defense": 5 },
+    { "id" : 1 , "name": "Armor", "description": "A golden armor crafted by the mountain dwarfs" , "attack": 0, "defense": 50 },
+    { "id" : 2 , "name": "Double axe", "description": "Double axe double damage" , "attack": 50, "defense": 5 },
+    { "id" : 3 , "name": "Bow", "description": "Wood bow crafted by the elvens of the forest" , "attack": 20, "defense": 0 },
+    { "id" : 4 , "name": "Daggen", "description": "Short but letal weapon" , "attack": 15, "defense": 0 },
+    { "id" : 5 , "name": "Hammer", "description": "The heaviest, the strongest, the slowest" , "attack": 80, "defense": 10 },
+    { "id" : 6 , "name": "Helmet", "description": "The knight protection" , "attack": 0, "defense": 20 },
+    { "id" : 7 , "name": "Shield", "description": "The best deffense" , "attack": 5, "defense": 80 },
+    { "id" : 8 , "name": "Spear", "description": "The longest weapon" , "attack": 25, "defense": 0 },
+    { "id" : 9 , "name": "Magic wand", "description": "Built for the wizards, powerful and misterious" , "attack": 50, "defense": 30 }
 ]
